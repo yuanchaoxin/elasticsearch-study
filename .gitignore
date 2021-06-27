@@ -1,0 +1,6 @@
+*.idea
+es-study/.idea/compiler.xml
+es-study/.idea/*
+es-study/.idea*
+es-study/.idea/compiler.xml
+es-study/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml
